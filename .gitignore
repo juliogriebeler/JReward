@@ -1,0 +1,10 @@
+.classpath
+target
+.project
+.settings/
+/bin/
+.springBeans
+.factorypath
+.apt_generated/
+.apt_generated_tests/
+uploads/
